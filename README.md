@@ -60,7 +60,7 @@ const developer = {
 
 <img src="https://img.shields.io/badge/Discord%20Bot%20Development-090011?style=for-the-badge&logo=discord&logoColor=C084FC" alt="Discord Bot Development" />
 <br>
-<img src="https://img.shields.io/badge/Security%20Bot%20Systems-090011?style=for-the-badge&logo=shield&logoColor=C084FC" alt="Security Bot Systems" />
+<img src="https://img.shields.io/badge/Security%20Bot%20Systems-090011?style=for-the-badge&logo=cloudflare&logoColor=C084FC" alt="Security Bot Systems" />
 <br>
 <img src="https://img.shields.io/badge/Web%20Development-090011?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="Web Development" />
 <br>
