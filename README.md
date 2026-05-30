@@ -186,8 +186,13 @@ Scripts and tools designed to reduce manual work and improve speed.
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tushar-xddd&show_icons=true&hide_border=true&bg_color=090011&title_color=C084FC&text_color=FFFFFF&icon_color=7F00FF" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-xddd&layout=compact&hide_border=true&bg_color=090011&title_color=C084FC&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-xddd&theme=radical" alt="Profile Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-xddd&theme=radical" alt="Repos Per Language" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-xddd&theme=radical" alt="Most Commit Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-xddd&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 <br><br>
 
