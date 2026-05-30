@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,25:3B0764,50:7F00FF,75:B026FF,100:E9D5FF&height=285&section=header&text=THE%20TUSHAR&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Discord%20Bot%20Developer%20%7C%20Web%20Developer%20%7C%20Automation%20Builder&descSize=18&descAlignY=58" alt="THE TUSHAR" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,25:3B0764,50:7F00FF,75:B026FF,100:E9D5FF&height=285&section=header&text=The%20%22%E0%A4%A4%E0%A5%81%E0%A4%B7%E0%A4%BE%E0%A4%B0%22&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Discord%20Bot%20Developer%20%7C%20Web%20Developer%20%7C%20Automation%20Builder&descSize=18&descAlignY=58" alt="The Tushar" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Discord+Bots;Designing+Modern+Web+Systems;Creating+Automation+Tools;Build.+Secure.+Repeat." alt="Typing Animation" />
